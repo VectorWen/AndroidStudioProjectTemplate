@@ -1,0 +1,2 @@
+# AndroidStudioProjectTemplate
+有了AndroidStudio 的工程模板，在写测试Demo的时候就不用那么辛苦的新建项目，新建Activity，Fragment 的一次无用的东西
